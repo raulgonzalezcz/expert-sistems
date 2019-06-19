@@ -1,0 +1,16 @@
+"sistema de computadora con técnicas de intelignencia artificial"
+
+para el beneficio del ser humano=> quitar
+
+Un sistema experto es un sistema de computadora con técnicas de inteligencia artificial capaz de resolver problemas de un área específica de forma eficiente con base en el conocimiento de ese dominio que posee, tomar decisiones a partir de un mecanismo de razonamiento (como por ejemplo algún método de inferencia) e incrementar su aprendizaje (experiencia) para tareas posteriores al explicar el por qué llegó a esa solución de forma similar a como lo haría un experto humano.
+
+Leer sobre características, clasificación y componentes de sistemas expertos.
+
+Ver video F1, responder si es factible la cantidad de datos por segundo. ¿Por qué?
+So there's about 25,000 things there that can go wrong
+On the race car in front of you here there are about 120 sensors when it goes into a race. It's measuring all sorts of things around the car. That data is logged. We're logging about 500 different parameters within the data systems.
+So during a two-hour race, each car will be sending 750 million numbers. That's twice as many numbers as words that each of us speaks in a lifetime == 104,166 numbers per second
+
+Per number, 104,166 * 32 bits = 3333312 / 10 8 bits = 416,664 / 10^³ = 416.664 MB
+
+using telemetry at a rate of two to four megabits per second
