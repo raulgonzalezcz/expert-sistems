@@ -1,4 +1,4 @@
-#Expert Systems: Examples
+# Expert Systems: Examples
 Examples of expert systems in Python:
 
 1. Bagger.py: This file is an example of a simple rule-based system that describes how to pack items at a supermarket check-out. For more information check the following link: http://www.cse.unsw.edu.au/~billw/cs9414/notes/kr/rules/rules.html
